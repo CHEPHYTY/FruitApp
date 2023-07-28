@@ -9,8 +9,8 @@
 
 > OBJECTIVE: This is Short Tutorial for Using List View and custom Adapter to Set Data dynamically.
 
-[![Watch the video](![image](https://github.com/CHEPHYTY/FruitApp/assets/101518415/e27daa62-4567-49a7-8056-29f7bc4c6bf3)
-))](https://youtu.be/TL0QPJc8GZk)
+[![image](https://github.com/CHEPHYTY/FruitApp/assets/101518415/e27daa62-4567-49a7-8056-29f7bc4c6bf3)](https://youtu.be/TL0QPJc8GZk)
+
 
 > [To Watch the video click on the picture](https://youtu.be/TL0QPJc8GZk)
 
