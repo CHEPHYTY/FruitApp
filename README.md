@@ -31,8 +31,8 @@ Add all the Resource file to the drawable file and add all the extra color and s
 
 - Image Resource
 
-![Image Data](![image](https://github.com/CHEPHYTY/FruitApp/assets/101518415/18a82d36-a1df-46c7-8341-f23274a4256f)
-)
+![image](https://github.com/CHEPHYTY/FruitApp/assets/101518415/d02de453-eda2-42a5-b5a6-a8f800bf2283)
+
 
 - Color Resource
 
@@ -54,7 +54,9 @@ For Item Display create a separete resource file (xml file) to show data properl
 
 TO DO so got to Layout Folder >> Right Click >> New >> Layout Resource File and give Name In our case we use **"fruit_item"** as Name
 
-## ![List View](image-3.png)
+
+
+
 
 
 ### STEP 4:
