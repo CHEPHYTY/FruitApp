@@ -56,6 +56,10 @@ TO DO so got to Layout Folder >> Right Click >> New >> Layout Resource File and 
 
 
 
+https://github.com/CHEPHYTY/FruitApp/assets/101518415/ac2cb9d6-6123-4feb-97b4-9cdc0feafe28
+
+
+
 
 
 
@@ -67,7 +71,11 @@ To do so folder >> Right click >> New >> Kotlin Class/File >> Name
 
 in our Case We Named as **"FruitClass"**
 
-## ![List View](image-3.png)
+
+
+https://github.com/CHEPHYTY/FruitApp/assets/101518415/b5843a89-160f-4de5-b969-14ab39565f0e
+
+
 
 
 ### STEP 5:
@@ -143,7 +151,10 @@ Create Another Activity to Show Data Exclusively.
 
 Folder >> RightClick >> New >> Activity >> EmptyActivity
 
-<video src="20230728-1256-07.6168847.mp4" controls title="Title"></video>
+
+Uploading Recording 2023-07-28 195206.mp4…
+
+
 
 ### STEP 7:
 
