@@ -42,17 +42,16 @@ You can add all the Resource files to the drawable file and add all the extra co
 
 - Color Resource
 
-![Color Data](![image](https://github.com/CHEPHYTY/FruitApp/assets/101518415/aa0a0b77-d9ac-4789-b3e3-6a924c7fc088)
-)
+![image](https://github.com/CHEPHYTY/FruitApp/assets/101518415/aa0a0b77-d9ac-4789-b3e3-6a924c7fc088)
+
 
 ---
 
 ### STEP 2:
 
 Create a ListView in MainActivity.xml and give it an ID.
+![image](https://github.com/CHEPHYTY/FruitApp/assets/101518415/3f4ac977-6822-4184-924a-de990012455d)
 
-## ![List View](![image](https://github.com/CHEPHYTY/FruitApp/assets/101518415/3f4ac977-6822-4184-924a-de990012455d)
-)
 
 ### STEP 3:
 
