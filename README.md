@@ -152,7 +152,11 @@ Create Another Activity to Show Data Exclusively.
 Folder >> RightClick >> New >> Activity >> EmptyActivity
 
 
-Uploading Recording 2023-07-28 195206.mp4…
+
+
+
+https://github.com/CHEPHYTY/FruitApp/assets/101518415/1757614a-1545-44b0-9d76-f3e79c1c798e
+
 
 
 
